@@ -15,7 +15,7 @@ Sistem ini mengekstrak materi pembelajaran, menganalisis kedalaman konten, mempr
 * **Core Architecture**: Chained Large Language Models (LLMs) & Custom Prompt Engineering
 * **Output Node**: Structured Template Formatting
 
-![Langflow Workflow Architecture](Asset/Langflow Canvas.png)
+![Langflow Workflow Architecture](Asset/Langflow_Canvas.png)
 *Gambaran alur kerja multi-step node pada kanvas Langflow.*
 
 ## 💻 Cara Mencoba Workflow Ini
