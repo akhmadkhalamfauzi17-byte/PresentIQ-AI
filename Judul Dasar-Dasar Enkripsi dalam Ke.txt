@@ -1,0 +1,15 @@
+Judul: Dasar-Dasar Enkripsi dalam Keamanan Data Modern
+
+Konsep Dasar:
+Kriptografi adalah praktik mengembangkan dan menggunakan algoritma untuk menjaga agar informasi tetap rahasia. Dua metode utama yang digunakan saat ini adalah Enkripsi Simetris dan Asimetris.
+
+Perbandingan Metode:
+
+Enkripsi Simetris: Menggunakan satu kunci yang sama untuk proses enkripsi dan dekripsi (contoh: AES). Sangat cepat tetapi sulit dalam distribusi kunci yang aman.
+
+Enkripsi Asimetris: Menggunakan pasangan kunci (Public Key dan Private Key). Public key digunakan untuk enkripsi, sedangkan Private key untuk dekripsi (contoh: RSA).
+
+Fungsi Hash:
+Berbeda dengan enkripsi, fungsi hash adalah proses satu arah untuk memastikan integritas data. Jika satu bit data berubah, maka nilai hash-nya akan berubah total.
+
+Pertanyaan Diskusi: Mengapa tanda tangan digital (digital signature) selalu menggunakan metode enkripsi asimetris?

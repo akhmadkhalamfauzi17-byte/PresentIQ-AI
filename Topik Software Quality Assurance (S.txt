@@ -1,0 +1,15 @@
+Topik: Software Quality Assurance (SQA)
+
+SQA adalah proses sistematis untuk memastikan bahwa produk perangkat lunak memenuhi standar kualitas yang ditentukan. Fokus utamanya bukan hanya mencari bug (seperti testing), tetapi memperbaiki proses pengembangan itu sendiri.
+
+Konsep Kunci:
+
+TDD (Test Driven Development): Menulis tes sebelum menulis kode fungsional.
+
+Reliability: Kemampuan sistem menjalankan fungsi tanpa kegagalan dalam periode tertentu.
+
+Maintainability: Kemudahan perangkat lunak untuk diperbaiki atau ditingkatkan.
+
+V&V (Verification & Validation): Verifikasi menjawab "Apakah kita membangun produk dengan benar?", sedangkan Validasi menjawab "Apakah kita membangun produk yang tepat?".
+
+Tantangan Utama: Seringkali dianggap membuang waktu di awal proyek, namun sangat menghemat biaya di jangka panjang karena mengurangi pengerjaan ulang (rework).
